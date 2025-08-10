@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+account.)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="./github-logo.gif" width="200" alt="GitHub Logo GIF">
+</p>
+
 # Hi 👋 I am Sai Nikhil
 💻 Java Full Stack Developer | 🌱 Currently learning ReactJS  
 Love exploring new tech & building projects.
