@@ -1,11 +1,4 @@
-<p dir="auto">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+account)](https://git.io/typing-svg)
-
-  <a href=">
-    <img src="github-octocat.gif" alt="GitHub Octocat" width="200" />
-  </a>
-</p>
 
 # Hi 👋 I am Sai Nikhil
 💻 Java Full Stack Developer | 🌱 Currently learning ReactJS  
