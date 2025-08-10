@@ -1,7 +1,11 @@
 
+# SaiNikhil862
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+account.)](https://git.io/typing-svg)
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+account.&center=true" alt="Typing SVG" />
+  </a>
+  
   <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUybXNkeGw3cTRvaTNtNHNwMXJxYWI3eXlzODNnZjVwdDAwNHRzejJkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="GitHub Logo">
 </div>
 
