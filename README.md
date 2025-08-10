@@ -28,3 +28,9 @@ Love exploring new tech & building projects.
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 ---
+## 📊 GitHub Stats
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiNikhil862&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiNikhil862&layout=compact&theme=radical)
+
+---
+
