@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+account.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="assets/github-logo.gif" alt="GitHub Logo" width="200" />
+  <img src="[assets/github-logo.gif](https://drive.google.com/file/d/1ndsenvG6AAlqavA0xx2oNRq1ydQiVNOi/view?usp=drivesdk)" alt="GitHub Logo" width="200" />
 </p>
 
 # Hi 👋 I am Sai Nikhil
