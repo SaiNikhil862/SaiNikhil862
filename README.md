@@ -35,7 +35,7 @@ Love exploring new tech & building projects.
 ---
 
 ## 📌 Pinned Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiNikhil862&repo=REPO-NAME&theme=radical)](https://github.com/SaiNikhil862/SaiNikhil862)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiNikhil862&repo=SaiNikhil862&theme=radical)](https://github.com/SaiNikhil862/SaiNikhil862)
 
 
 ---
