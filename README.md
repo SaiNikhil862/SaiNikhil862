@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+account)](https://git.io/typing-svg)
 <p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+account)](https://git.io/typing-svg)
+
   <a href="https://octodex.github.com">
     <img src="github-octocat.gif" alt="GitHub Octocat" width="200" />
   </a>
