@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github)](https://git.io/typing-svg)
+
 <img src="github-logo.gif" alt="GitHub Octocat" width="200" />
 
 # Hi 👋 I am Sai Nikhil
