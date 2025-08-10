@@ -1,4 +1,4 @@
-<img src="github-octocat.gif" alt="GitHub Octocat" width="200" />
+<img src="github-logo.gif" alt="GitHub Octocat" width="200" />
 
 # Hi 👋 I am Sai Nikhil
 💻 Java Full Stack Developer | 🌱 Currently learning ReactJS  
