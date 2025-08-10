@@ -37,7 +37,7 @@ Love exploring new tech & building projects.
 ## 📌 Pinned Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiNikhil862&repo=SaiNikhil862&theme=radical)](https://github.com/SaiNikhil862/SaiNikhil862)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiNikhil862&repo=Spotify-clone&theme=radical)](https://github.com/SaiNikhil862/Spotify-clone)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiNikhil862&repo=Netflix-clone&theme=radical)](https://github.com/SaiNikhil862/Netflic-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiNikhil862&repo=Netflix-clone&theme=radical)](https://github.com/SaiNikhil862/Netflix-clone)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiNikhil862&repo=CDNJS-clone&theme=radical)](https://github.com/SaiNikhil862/CDNJS-clone)
 
 ---
