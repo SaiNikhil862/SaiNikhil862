@@ -1,6 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github)](https://git.io/typing-svg)
-
-<img src="github-logo.gif" alt="GitHub Octocat" width="200" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+account)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://octodex.github.com">
+    <img src="github-octocat.gif" alt="GitHub Octocat" width="200" />
+  </a>
+</p>
 
 # Hi 👋 I am Sai Nikhil
 💻 Java Full Stack Developer | 🌱 Currently learning ReactJS  
