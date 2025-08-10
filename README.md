@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+account.)](https://git.io/typing-svg)
 
-<p align="center">
-  <video src="https://drive.google.com/uc?export=download&id=1ndsenvG6AAlqavA0xx2oNRq1ydQiVNOi" width="220" autoplay loop muted playsinline controls></video>
-</p>
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUybXNkeGw3cTRvaTNtNHNwMXJxYWI3eXlzODNnZjVwdDAwNHRzejJkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="GitHub Logo">
+</div>
 
 # Hi 👋 I am Sai Nikhil
 💻 Java Full Stack Developer | 🌱 Currently learning ReactJS  
