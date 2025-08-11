@@ -37,6 +37,7 @@ Love exploring new tech & building projects.
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ---
 ## 📊 GitHub Stats
