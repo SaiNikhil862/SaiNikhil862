@@ -53,3 +53,7 @@ Love exploring new tech & building projects.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiNikhil862&repo=CDNJS-clone&theme=radical)](https://github.com/SaiNikhil862/CDNJS-clone)
 
 ---
+
+GitHub Stats:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiNikhil862&show_icons=true&theme=radical)
