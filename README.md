@@ -52,5 +52,7 @@ Love exploring new tech & building projects.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiNikhil862&repo=Netflix-clone&theme=radical)](https://github.com/SaiNikhil862/Netflix-clone)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiNikhil862&repo=CDNJS-clone&theme=radical)](https://github.com/SaiNikhil862/CDNJS-clone)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiNikhil862&repo=Ray-Romano-Contracting-Clone&theme=radical)](https://github.com/SaiNikhil862/Ray-Romano-Contracting-Clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiNikhil862&repo=feane-restaurant-website-clone&theme=radical)](https://github.com/SaiNikhil862/feane-restaurant-website-clone)
+
 
 ---
