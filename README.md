@@ -17,8 +17,8 @@ Love exploring new tech & building projects.
 
 ## 🚀 About Me
 - 🔭 I’m currently working on Java & Web Projects
-- 🌱 I’m currently learning ReactJS
-- 💬 Ask me about Java, HTML, CSS, JS, SQL, Web Dev
+- 🌱 I’m currently learning Advance Java
+- 💬 Ask me about Java, HTML, CSS, JS, SQL, Web Dev, ReactJS
 - ⚡️ Fun fact: I am a Content Creator🎥
 
 ---
