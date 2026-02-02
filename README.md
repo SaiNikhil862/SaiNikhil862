@@ -10,14 +10,14 @@
 </div>
 
 # Hi 👋 I am Sai Nikhil
-💻 Java Full Stack Developer | 🌱 Currently learning ReactJS  
+💻 Java Full Stack Developer | 🌱 Very Good in ReactJS  
 Love exploring new tech & building projects.
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on Java & Web Projects
-- 🌱 I’m currently learning Advance Java
+- 🔭 Worked on Java & Web Projects
+- 🌱 Advance Java for Realtime Connectivity of a Web Application
 - 💬 Ask me about Java, HTML, CSS, JS, SQL, Web Dev, ReactJS
 - ⚡️ Fun fact: I am a Content Creator🎥
 
